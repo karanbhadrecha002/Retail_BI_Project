@@ -1,1 +1,3 @@
-# Retail_BI_Project
+# Project Summary
+
+- The Data Analytics project which is given here is an Power BI Report of Retail Analysis. This Data have many tables(Buyer, Dates, Manager, Regions, Sales). "Buyer" table have modeled one to many relation with "Sales" table, "Dates" table have modeled one to many relation with "Sales" table, "Manager" table have modeled one to many relation with "Sales" table and "Manager" table have modeled one to one relation with "Regions" table. This report shows total sales and have feature of their data such as Category, State, Country, Financial Year, FY Month, FY Qtr, Buyers, Cost, Price, GP%, Post Code, Gross Profit, Total Unit. The Goal and Insights of the project Shows the State wise sales.
